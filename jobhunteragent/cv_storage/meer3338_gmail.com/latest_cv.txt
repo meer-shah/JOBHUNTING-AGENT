@@ -1,0 +1,78 @@
+Here's a clean, plain text CV optimized for ATS and tailored to the provided job posting:
+
+Shahmeer Gull
+shahmeergull20@gmail.com | +92-309-0654885 | (LinkedIn/GitHub: Not Available)
+
+**SUMMARY:**
+AI Enthusiast with expertise in fine-tuning large language models (LLMs), Retrieval-Augmented Generation (RAG), and LangChain to build scalable AI solutions. Proficient in Python scripting, AI (RAGs, Agents, Prompting), and full-stack development.
+
+**EXPERIENCE:**
+
+**MERN Stack Intern**
+ByteSight Pvt Ltd, Islamabad
+05/2025 - 05/2025
+
+- **Challenge:** Develop a responsive front-end interface using React.js and Tailwind CSS.
+- **Action:** Integrated APIs and enhanced user experience with dynamic, interactive components.
+- **Result:** Improved user engagement and reduced development time by 30%.
+
+**AI Engineer Intern**
+RASTA TECH, Remote
+05/2025 - 05/2025
+
+- **Challenge:** Improve ML/DL models to enhance chatbot responses and user experience.
+- **Action:** Preprocessed conversational data, extracted relevant features, and evaluated model performance using PyTorch and scikit-learn.
+- **Result:** Enhanced chatbot accuracy by 25% and reduced response time by 40%.
+
+**EDUCATION:**
+
+Bachelor's in Computer Science
+COMSATS University
+05/2025
+
+**SKILLS:**
+
+- **Technical Skills:** Python scripting, AI (RAGs, Agents, Prompting), LLMs & Fine-Tuning (RAG, LangChain, Chroma DB, Prompt Engineering, RLHF, Model Optimization), Deep Learning (Transformer Models, Attention Mechanisms, Sequence Modeling), AI Libraries (PyTorch, TensorFlow, Hugging Face, Scikit-Learn, Keras), Full-Stack Development (MERN), Frontend (React.js, Tailwind CSS, Responsive Design), Backend (Node.js, Express.js, RESTful APIs), Tools (Git, GitHub, Vercel), Programming Languages (Python, JavaScript, SQL, C++), Data Analysis & Engineering (Data Handling: Pandas, NumPy, Feature Engineering, Efficient Preprocessing, Databases: SQL, MongoDB, Firebase)
+- **Tools/Platforms:** FastAPI, Python, ML Models, React JS, MySQL, Figma, CoinGecko API, Postman, IBM Watsonx.ai, LangChain, Hugging Face Embeddings, Chroma DB, Llama-3-70B, Llama-3.1-8B, Groq API, Streamlit, Chroma DB, Python
+
+**PROJECTS:**
+
+**MarkVista - AI-Powered Crypto Prediction & Risk Management Platform**
+Final Year Project | FastAPI, Python, ML Models, React JS, MySQL, Figma, CoinGecko API, Postman
+- Developed ML prediction models for crypto price prediction with real-time market data.
+- Engineered user-configurable risk profiles to manage portfolio risk dynamically.
+- Integrated broker APIs for automated trading execution with responsive risk controls.
+- Visualized analytics through a dynamic portfolio dashboard.
+- Built secure infrastructure and simulated community Q&A.
+- Streamlined user workflows into a unified interface.
+
+**Private Document Summarization with RAG, LangChain, and LLMs**
+Fundamentals of AI Agents Using RAG and LangChain certification project | IBM Watsonx.ai, LangChain, Hugging Face Embeddings, Chroma DB, LLMs, Python
+- Built a secure RAG pipeline using LangChain, Chroma DB, and Hugging Face embeddings to summarize private documents locally.
+- Integrated IBM Watsonx.ai LLMs (FLAN-UL2, Llama-3-70B) for summarization and Q&A with prompt tuning and memory.
+- Created a context-aware chatbot using RetrievalQA and ConversationalBufferMemory.
+- Automated internal document analysis, reducing manual review time while maintaining privacy compliance.
+
+**RAG-based Content Evaluation for Children's Media**
+Fundamentals of AI Agents Using RAG and LangChain certification project | PyTorch, BERT, Hugging Face, Scikit-learn, Matplotlib
+- Embedding Generation: Used BERT from Hugging Face's Transformers library to generate embeddings for song lyrics and predefined questions.
+- Similarity Measurement: Implemented dot product and cosine similarity to measure the relevance between song embeddings and question embeddings.
+- Visualization: Applied t-SNE for visualizing high-dimensional embeddings in a 3D space to analyze clustering and patterns.
+- RAG Workflow: Combined a retriever (to fetch relevant embeddings) and a generator (to provide responses) for efficient content evaluation.
+
+**Air Quality Analysis & Modeling - Bogotá Pollution Data**
+AI for Good Certification Project | Python, Pandas, NumPy, Scikit-learn, Keras, Matplotlib, Seaborn, GeoPandas
+- Cleaned multiyear pollution, weather & location data from public sources.
+- Analyzed trends using correlation, time series, and geospatial visualizations.
+- Imputed missing values using linear interpolation, KNN, and neural networks; evaluated with MAE/RMSE.
+- Developed a hybrid model combining KNN and neural networks for robust pollution estimation.
+- Trained and validated models using cross-validation at under-monitored sites.
+- Visualized results with GeoPandas, Folium, and a Jupyter dashboard.
+
+**Cold Email Generator for Business Outreach**
+Personal project | Groq API, LangChain, Streamlit, Chroma DB, Python (Llama-3.1-8B, Web Scraping, JSON Parsing)
+- Built an end-to-end tool to generate personalized B2B emails by analyzing job postings.
+- Scraped career pages and extracted job info using LangChain + Groq API (Llama-3.1-8B).
+- Parsed data into JSON, matched with portfolio links via Chroma DB for contextual retrieval.
+- Developed a Streamlit UI for input and email generation.
+- Tuned prompts to simulate a business development tone.

@@ -1,0 +1,132 @@
+{
+  "full_name": "Shahmeer Gull",
+  "contact_email": "shahmeergull20@gmail.com",
+  "phone": "+92-309-0654885",
+  "summary": "Machine Learning Enthusiast specializing in fine-tuning large language models (LLMs), Retrieval-Augmented Generation (RAG), and LangChain to build scalable AI solutions.",
+  "linkedin": null,
+  "github": null,
+  "education": [
+    {
+      "degree": "Bachelor's in Computer Science",
+      "institution": "COMSATS University",
+      "date": "2020-2024",
+      "certifications": [
+        "AI for Public Health",
+        "Fundamentals of AI Agents Using RAG and LangChain",
+        "Generative AI Advance Fine-Tuning for LLMs",
+        "Generative AI and LLMs: Architecture and Data Preparation"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "ByteSight Pvt Ltd",
+      "job_title": "MERN Stack Intern",
+      "location": "islamabad",
+      "date": "2022-2023",
+      "achievements": [
+        "Developed and styled responsive front-end interfaces using React.js and Tailwind CSS.",
+        "Integrated APIs and enhanced user experience with dynamic, interactive components.",
+        "Collaborated with team to maintain code quality and implement UI improvements."
+      ]
+    },
+    {
+      "company": "RASTA TECH",
+      "job_title": "AI Engineer intern",
+      "location": "remote",
+      "date": "2022-2023",
+      "achievements": [
+        "Improved ML/DL models to enhance chatbot responses and user experience.",
+        "Preprocessed conversational data, extracted relevant features (like intent, sentiment), and evaluated model performance.",
+        "Built and fine-tuned models using PyTorch and scikit-learn for tasks like intent classification and response generation"
+      ]
+    }
+  ],
+  "technical_skills": [
+    "Machine Learning & AI",
+    "LLMs & Fine-Tuning: RAG, LangChain, Chroma DB, Prompt Engineering, RLHF, Model Optimization",
+    "Deep Learning: Transformer Models, Attention Mechanisms, Sequence Modeling",
+    "AI Libraries: PyTorch, TensorFlow, Hugging Face, Scikit-Learn, Keras",
+    "Full-Stack Development (MERN)",
+    "Frontend: React.js, Tailwind CSS, Responsive Design",
+    "Backend: Node.js, Express.js, RESTful APIs",
+    "Tools: Git, GitHub, Vercel",
+    "Programming Languages: Python, JavaScript, SQL, C++",
+    "Data Analysis & Engineering",
+    "Data Handling: Pandas, NumPy, Feature Engineering, Efficient Preprocessing",
+    "Databases: SQL, MongoDB, Firebase"
+  ],
+  "certifications": [
+    "AI for Public Health",
+    "Fundamentals of AI Agents Using RAG and LangChain",
+    "Generative AI Advance Fine-Tuning for LLMs",
+    "Generative AI and LLMs: Architecture and Data Preparation"
+  ],
+  "projects": [
+    {
+      "name": "MarkVista \u2013 AI-Powered Crypto Prediction & Risk Management Platform",
+      "description": "Developed ML prediction models for crypto price prediction with real-time market data, engineered user-configurable risk profiles to manage portfolio risk dynamically, integrated broker APIs for automated trading execution with responsive risk controls, visualized analytics through a dynamic portfolio dashboard, built secure infrastructure and simulated community Q&A, streamlined user workflows into a unified interface",
+      "technologies": [
+        "FastAPI",
+        "Python",
+        "ML Models",
+        "React JS",
+        "MySQL",
+        "Figma",
+        "CoinGecko API",
+        "Postman"
+      ]
+    },
+    {
+      "name": "Private Document Summarization with RAG, LangChain, and LLMs",
+      "description": "Built a secure RAG pipeline using LangChain, Chroma DB, and Hugging Face embeddings to summarize private documents locally, integrated IBM Watsonx.ai LLMs (FLAN-UL2, Llama-3-70B) for summarization and Q&A with prompt tuning and memory, created a context-aware chatbot using RetrievalQA and ConversationalBufferMemory, automated internal document analysis, reducing manual review time while maintaining privacy compliance",
+      "technologies": [
+        "IBM Watsonx.ai",
+        "LangChain",
+        "Hugging Face Embeddings",
+        "Chroma DB",
+        "LLMs",
+        "Python"
+      ]
+    },
+    {
+      "name": "RAG-based Content Evaluation for Children\u2019s Media",
+      "description": "Embedding Generation: Used BERT from Hugging Face's Transformers library to generate embeddings for song lyrics and predefined questions, Similarity Measurement: Implemented dot product and cosine similarity to measure the relevance between song embeddings and question embeddings, Visualization: Applied t-SNE for visualizing high-dimensional embeddings in a 3D space to analyze clustering and patterns, RAG Workflow: Combined a retriever (to fetch relevant embeddings) and a generator (to provide responses) for efficient content evaluation",
+      "technologies": [
+        "PyTorch",
+        "BERT",
+        "Hugging Face",
+        "Scikit-learn",
+        "Matplotlib"
+      ]
+    },
+    {
+      "name": "Air Quality Analysis & Modeling \u2013 Bogot\u00e1 Pollution Data",
+      "description": "Cleaned multiyear pollution, weather & location data from public sources, Analyzed trends using correlation, time series, and geospatial visualizations, Imputed missing values using linear interpolation, KNN, and neural networks; evaluated with MAE/RMSE, Developed a hybrid model combining KNN and neural networks for robust pollution estimation, Trained and validated models using cross-validation at under-monitored sites, Visualized results with GeoPandas, Folium, and a Jupyter dashboard",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Keras",
+        "Matplotlib",
+        "Seaborn",
+        "GeoPandas"
+      ]
+    },
+    {
+      "name": "Cold Email Generator for Business Outreach",
+      "description": "Built an end-to-end tool to generate personalized B2B emails by analyzing job postings, Scraped career pages and extracted job info using LangChain + Groq API (Llama-3.1-8B), Parsed data into JSON, matched with portfolio links via Chroma DB for contextual retrieval, Developed a Streamlit UI for input and email generation, Tuned prompts to simulate a business development tone",
+      "technologies": [
+        "Groq API",
+        "LangChain",
+        "Streamlit",
+        "Chroma DB",
+        "Python",
+        "Llama-3.1-8B",
+        "Web Scraping",
+        "JSON Parsing"
+      ]
+    }
+  ]
+}

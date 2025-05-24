@@ -1,0 +1,23 @@
+[Your Address]
+[City, State, Zip]
+[Email Address]
+[Phone Number]
+[Date]
+
+Karan Trehan
+Es Magico AI Studio
+Mumbai
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Intern position at Es Magico AI Studio, as advertised on [Job Posting Platform]. As a Machine Learning Enthusiast with a strong background in fine-tuning large language models (LLMs), Retrieval-Augmented Generation (RAG), and LangChain, I am confident that I can contribute to the success of your team.
+
+With a Bachelor's degree in Computer Science from COMSATS University, I have developed a solid foundation in AI and ML concepts. My experience as an AI Engineer intern at RASTA TECH has equipped me with expertise in building and fine-tuning ML/DL models using PyTorch and scikit-learn. I have also worked on various projects, including MarkVista - AI-Powered Crypto Prediction & Risk Management Platform, where I developed ML prediction models for crypto price prediction and integrated broker APIs for automated trading execution. My proficiency in Python, JavaScript, and SQL, along with my experience in full-stack development using MERN, makes me an ideal candidate for this role.
+
+I am particularly drawn to this internship because of the opportunity to work on AI-related projects and contribute to the growth of Es Magico AI Studio. My skills in RAG, LangChain, and LLMs align with the job requirements, and I am excited about the prospect of working with a team that shares my passion for AI. I would welcome the opportunity to discuss my application and how I can contribute to the success of your team.
+
+Thank you for considering my application. I look forward to the opportunity to discuss this further. Please feel free to contact me at [Your Email Address] or [Your Phone Number].
+
+Sincerely,
+
+Shahmeer Gull

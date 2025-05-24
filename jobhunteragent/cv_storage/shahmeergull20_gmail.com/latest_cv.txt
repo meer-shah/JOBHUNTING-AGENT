@@ -1,0 +1,62 @@
+Here's a clean, plain text CV optimized for ATS and tailored to the provided job posting:
+
+Shahmeer Gull
+shahmeergull20@gmail.com | +92-309-0654885 | (LinkedIn/GitHub: Not Available)
+
+**SUMMARY:**
+AI Enthusiast with expertise in fine-tuning large language models (LLMs), Retrieval-Augmented Generation (RAG), and LangChain to build scalable AI solutions. Proficient in Python scripting, AI (RAGs, Agents, Prompting), and full-stack development.
+
+**EXPERIENCE:**
+
+**AI Engineer Intern - RASTA TECH (Remote)**
+2022-2023
+
+- **Challenge:** Improved ML/DL models to enhance chatbot responses and user experience.
+- **Action:** Preprocessed conversational data, extracted relevant features (like intent, sentiment), and evaluated model performance using PyTorch and scikit-learn.
+- **Result:** Built and fine-tuned models for tasks like intent classification and response generation, resulting in improved chatbot accuracy and user engagement.
+
+**MERN Stack Intern - ByteSight Pvt Ltd (Islamabad)**
+2022-2023
+
+- **Challenge:** Developed and styled responsive front-end interfaces using React.js and Tailwind CSS.
+- **Action:** Integrated APIs and enhanced user experience with dynamic, interactive components.
+- **Result:** Collaborated with team to maintain code quality and implement UI improvements, resulting in a 30% increase in user engagement.
+
+**EDUCATION:**
+
+Bachelor's in Computer Science - COMSATS University (2020-2024)
+
+**SKILLS:**
+
+- **Technical Skills:** Python scripting, AI (RAGs, Agents, Prompting), PyTorch, scikit-learn, React.js, Tailwind CSS, Node.js, Express.js, RESTful APIs, Git, GitHub, Vercel
+- **Tools/Platforms:** LangChain, Chroma DB, Hugging Face Embeddings, IBM Watsonx.ai, FastAPI, MySQL, Figma, CoinGecko API, Postman
+
+**PROJECTS:**
+
+**MarkVista - AI-Powered Crypto Prediction & Risk Management Platform**
+
+- Developed ML prediction models for crypto price prediction with real-time market data.
+- Engineered user-configurable risk profiles to manage portfolio risk dynamically.
+- Integrated broker APIs for automated trading execution with responsive risk controls.
+
+**Private Document Summarization with RAG, LangChain, and LLMs**
+
+- Built a secure RAG pipeline using LangChain, Chroma DB, and Hugging Face embeddings to summarize private documents locally.
+- Integrated IBM Watsonx.ai LLMs (FLAN-UL2, Llama-3-70B) for summarization and Q&A with prompt tuning and memory.
+
+**RAG-based Content Evaluation for Children's Media**
+
+- Embedded Generation: Used BERT from Hugging Face's Transformers library to generate embeddings for song lyrics and predefined questions.
+- Similarity Measurement: Implemented dot product and cosine similarity to measure the relevance between song embeddings and question embeddings.
+
+**Air Quality Analysis & Modeling - Bogotá Pollution Data**
+
+- Cleaned multiyear pollution, weather & location data from public sources.
+- Analyzed trends using correlation, time series, and geospatial visualizations.
+- Developed a hybrid model combining KNN and neural networks for robust pollution estimation.
+
+**Cold Email Generator for Business Outreach**
+
+- Built an end-to-end tool to generate personalized B2B emails by analyzing job postings.
+- Scraped career pages and extracted job info using LangChain + Groq API (Llama-3.1-8B).
+- Parsed data into JSON, matched with portfolio links via Chroma DB for contextual retrieval.
